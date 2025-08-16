@@ -26,18 +26,18 @@
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone [https://github.com/fesmpydev/my-finance-app](https://github.com/fesmpydev/my-finance-app.git)
-   cd my-finance-app
+   git clone https://github.com/fesmpydev/my-finance-app.git
 
+2. Acceder al directorio
+   ```bash
+      cd my-finance-app
 
-2. **Instalar dependencias**:
+3. **Instalar dependencias**:
    ```bash
    npm install
-  ```bash
-  npx expo install @react-native-async-storage/async-storage @react-navigation/native @react-navigation/stack react-native-paper @react-native-community/datetimepicker react-native-screens react-native-safe-area-context expo-splash-screen
-```
+   ```
 
-3. Pruebas con expo go - Inicia el servidor de desarrollo:
+3. Inicia el servidor de desarrollo:
    ```bash
    npx expo start
     ```
