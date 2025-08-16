@@ -26,7 +26,7 @@
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/fesmpydev/my-finance-app
+   git clone [https://github.com/fesmpydev/my-finance-app](https://github.com/fesmpydev/my-finance-app.git)
    cd my-finance-app
 
 
